@@ -1,1 +1,13 @@
 @import "https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css";
+
+.titulos {
+    display: flex;
+}
+
+.title {
+    justify-content: center;
+}
+
+.subtitle{
+    justify-content: center;
+}
